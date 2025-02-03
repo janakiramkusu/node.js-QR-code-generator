@@ -6,7 +6,7 @@ A simple and interactive **QR Code Generator** built using **Node.js** and **Exp
 🔗 [Try the QR Code Generator](https://node-js-qr-code-generator.onrender.com/) 
 
 ## 📸 Screenshot
-![QR Code Generator Preview]()
+![QR Code Generator Preview](public/Screenshot.png)
 
 ## 📜 Project Overview
 
